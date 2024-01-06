@@ -8,3 +8,7 @@ It allows a user to control Slides from their mobile Devices
 - [Contributing](#contributing)
 - [License](#license)
 
+```bash
+git clone https://github.com/your-username/your-repo.git
+```
+

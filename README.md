@@ -4,11 +4,12 @@ It allows a user to control Slides from their mobile Devices
 ## Table of Contents
 
 - [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
+
+## Usage
+
+1. You need to install the ratchet Library using Composer
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+composer require cboden/ratchet
 ```
-
+2. Run it locally on your PC, and you be good to go

@@ -1,5 +1,6 @@
 # mobile-slides
-It allows a user to control Slides from their mobile Device (Android)
+It allows a user to control Slides from their mobile Device (Android).
+It was built with the concept of Indexing and a little WebSocket thanks to Ratchet Library
 
 ## Table of Contents
 

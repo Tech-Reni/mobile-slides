@@ -1,5 +1,5 @@
 # mobile-slides
-It allows a user to control Slides from their mobile Devices
+It allows a user to control Slides from their mobile Device (Android)
 
 ## Table of Contents
 

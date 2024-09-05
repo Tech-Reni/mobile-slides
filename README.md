@@ -12,4 +12,4 @@ It allows a user to control Slides from their mobile Device (Android)
 ```bash
 composer require cboden/ratchet
 ```
-2. Run it locally on your PC, and you be good to go
+2. Run it locally on your PC, and you should be good to go
